@@ -1,0 +1,28 @@
+name: MICHAELANGELA CONGLOMERATE
+favicon: null
+layout_spectrum: 0.778077473398298
+typography_spectrum: 0.9623159666080028
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6776195573620498
+  lightness: 0.6146083681378514
+  saturation: 0.3073364580050111
+  rhythmicContrast: 0.2797702206298709
+purpose: []
