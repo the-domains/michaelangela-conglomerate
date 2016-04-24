@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MICHAELANGELA CONGLOMERATE]]></title>
         <description><![CDATA[MICHAELANGELA CONGLOMERATE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/michaelangela-conglomerate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 18:40:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 21:54:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/michaelangela-conglomerate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ok so I'm still figuring out my grid "residency" - I don't even know how to integrate things right now but learning is exploring -M-</p>]]></description>
+            <link>https://thegrid.ai/michaelangela-conglomerate/ok-so-im-still-figuring-out-my-grid-residency-i-dont-e/index.html</link>
+            <guid isPermaLink="false">72a254d5-3439-42ec-917a-8ef304a46d9b</guid>
+            <pubDate>Sun, 24 Apr 2016 21:54:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Friendship is a partnership of and amongst equals" -Aristotle (Nicomachean Ethics)</p>]]></description>
-            <link>undefinedfriendship-is-a-partnership-of-and-amongst-equals-aristot/index.html</link>
+            <link>https://thegrid.ai/michaelangela-conglomerate/friendship-is-a-partnership-of-and-amongst-equals-aristot/index.html</link>
             <guid isPermaLink="false">89bce1d2-3007-42e9-a1b7-14464b4a97ab</guid>
             <pubDate>Sun, 24 Apr 2016 18:39:50 GMT</pubDate>
         </item>
