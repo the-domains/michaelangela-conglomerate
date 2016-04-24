@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MICHAELANGELA CONGLOMERATE]]></title>
+        <description><![CDATA[MICHAELANGELA CONGLOMERATE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 18:40:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Friendship is a partnership of and amongst equals" -Aristotle (Nicomachean Ethics)</p>]]></description>
+            <link>undefinedfriendship-is-a-partnership-of-and-amongst-equals-aristot/index.html</link>
+            <guid isPermaLink="false">89bce1d2-3007-42e9-a1b7-14464b4a97ab</guid>
+            <pubDate>Sun, 24 Apr 2016 18:39:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
