@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '" The value of a thing sometimes does not lie in that which one attains but in what one pays for it -- what it costs us" -Nietzsche (Beauty Matters - The Moral Issues , p. 2) '
-datePublished: '2016-05-02T20:41:30.344Z'
-dateModified: '2016-05-02T20:41:09.854Z'
+datePublished: '2016-05-02T20:45:47.118Z'
+dateModified: '2016-05-02T20:41:36.988Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-05-02-the-value-of-a-thing-sometimes-does-not-lie-in-that-which.md
 published: true
+starred: true
 url: the-value-of-a-thing-sometimes-does-not-lie-in-that-which/index.html
 _type: Article
 
